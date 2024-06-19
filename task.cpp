@@ -13,7 +13,7 @@ void execute(std::function<void(int)> t, int load)
 
     std::cout << "task is starting..." << std::endl;
 
-    std::thread worker_thread(task);
+    std::thread worker_thread(std::move(task), load);
 
     std::cout << "Waiting for completion... " << std::endl;
 
