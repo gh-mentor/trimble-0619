@@ -43,6 +43,16 @@ namespace PayrollLibrary
             departments.Add(department);
         }
 
+        /// <summary>
+        /// Retrieves the department with the specified ID.
+        /// </summary>
+        /// <param name="id">The ID of the department to retrieve.</param>
+        /// <returns>The department with the specified ID, or null if not found.</returns>
+        /// <example>
+        /// <code>
+        /// Department department = company.GetDepartment(1);
+        /// </code>
+        /// </example>
         public Department? GetDepartment(int id)
         {
             foreach (Department department in departments)
