@@ -1,0 +1,22 @@
+[
+    {"EmployeeID": 1, "DepartmentID": 101, "FirstName": "John", "LastName": "Doe", "HourlyRate": 20.5},
+    {"EmployeeID": 2, "DepartmentID": 102, "FirstName": "Jane", "LastName": "Doe", "HourlyRate": 22.5},
+    {"EmployeeID": 3, "DepartmentID": 103, "FirstName": "Jim", "LastName": "Smith", "HourlyRate": 18.5},
+    {"EmployeeID": 4, "DepartmentID": 104, "FirstName": "Jill", "LastName": "Johnson", "HourlyRate": 19.5},
+    {"EmployeeID": 5, "DepartmentID": 105, "FirstName": "Joe", "LastName": "Brown", "HourlyRate": 21.5},
+    {"EmployeeID": 6, "DepartmentID": 106, "FirstName": "Julie", "LastName": "Davis", "HourlyRate": 23.5},
+    {"EmployeeID": 7, "DepartmentID": 107, "FirstName": "Jerry", "LastName": "Miller", "HourlyRate": 24.5},
+    {"EmployeeID": 8, "DepartmentID": 108, "FirstName": "Jessica", "LastName": "Wilson", "HourlyRate": 25.5},
+    {"EmployeeID": 9, "DepartmentID": 109, "FirstName": "Jeff", "LastName": "Moore", "HourlyRate": 26.5},
+    {"EmployeeID": 10, "DepartmentID": 110, "FirstName": "Jennifer", "LastName": "Taylor", "HourlyRate": 27.5},
+    {"EmployeeID": 11, "DepartmentID": 111, "FirstName": "Jack", "LastName": "Anderson", "HourlyRate": 28.5},
+    {"EmployeeID": 12, "DepartmentID": 112, "FirstName": "Judy", "LastName": "Thomas", "HourlyRate": 29.5},
+    {"EmployeeID": 13, "DepartmentID": 113, "FirstName": "Jason", "LastName": "Jackson", "HourlyRate": 30.5},
+    {"EmployeeID": 14, "DepartmentID": 114, "FirstName": "Janet", "LastName": "Harris", "HourlyRate": 31.5},
+    {"EmployeeID": 15, "DepartmentID": 115, "FirstName": "Justin", "LastName": "Martin", "HourlyRate": 32.5},
+    {"EmployeeID": 16, "DepartmentID": 116, "FirstName": "Jill", "LastName": "White", "HourlyRate": 33.5},
+    {"EmployeeID": 17, "DepartmentID": 117, "FirstName": "Judy", "LastName": "Thompson", "HourlyRate": 34.5},
+    {"EmployeeID": 18, "DepartmentID": 118, "FirstName": "Jill", "LastName": "Martinez", "HourlyRate": 35.5},
+    {"EmployeeID": 19, "DepartmentID": 119, "FirstName": "Jill", "LastName": "Young", "HourlyRate": 36.5},
+    {"EmployeeID": 20, "DepartmentID": 120, "FirstName": "Jill", "LastName": "King", "HourlyRate": 37.5}
+]
