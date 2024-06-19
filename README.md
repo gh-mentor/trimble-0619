@@ -14,7 +14,7 @@ GH handle:  andrew-scoppa
 
 [Self Paced Exercises for GitHub Copilot](https://github.com/Atmosera-CoPilot-Dev/self-paced)
 
-## NEW GitHub CLI
+## GitHub Copilot CLI
 
 [Setup GitHub Copilot CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli/setting-up-github-copilot-in-the-cli)
 
